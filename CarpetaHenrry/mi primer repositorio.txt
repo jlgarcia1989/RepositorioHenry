@@ -1,0 +1,11 @@
+Julian Garcia 
+
+Hola mundo!
+
+Retro 
+* Paso a Producción con tareas aun en QA 
+* No se realiza pruebas de regresión aplicando los EP antes del paso a Prod 
+* No se deben pasar tareas a QA de ajustes en iOS sin versión de Testfligth 
+* Adjuntar la versión de apk o reportarla en grupo cuando se envíen tareas a QA de App 
+* Dejar data de prueba para casos específicos de pruebas 
+* Tener en cuenta la iconología, que sea acorde con la funcionalidad
